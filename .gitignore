@@ -13,6 +13,7 @@ vending/build/
 vending/classes/
 vending/.gradle/
 vending/.idea/
+mysql-data/
 
 # Build output directories
 
