@@ -23,3 +23,8 @@ Access the frontend application at `http://localhost:3000`
 Access the backend application at `http://localhost:8080`
 
 Access the database application at `http://localhost:3306`
+
+## Important
+
+If you are starting the 3 tier application with docker-compose, you may need to restart it again once the Database is created. 
+Otherwise the backend will not be able to connect.
