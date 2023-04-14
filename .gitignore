@@ -1,0 +1,23 @@
+# IDE/Editor files
+.vscode/
+.idea/
+*.iml
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+vending-ui/node_modules/
+vending/build/
+vending/classes/
+vending/.gradle/
+vending/.idea/
+
+# Build output directories
+
+vending-ui/node_modules/
+vending-ui/dist/
+vending-ui/build/
+vending-ui/package-lock.json
+vending-ui/yarn-lock
