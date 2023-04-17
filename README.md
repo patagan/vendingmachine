@@ -7,6 +7,8 @@ This is a simple vending machine app built with Vue.js and Spring Boot.
 - Node.js v18.x or higher
 - JDK 17 or higher
 - MySQL Server
+- Docker Desktop for windows
+- Docker Engine for linux
 
 ## Configuration
 
